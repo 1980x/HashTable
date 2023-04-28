@@ -1,0 +1,6 @@
+The program does the following:
+1. Reads words from a file 
+2. Store in it Hash table 
+   i. A hash table contains an array of singly linked lists problems
+  ii. And a hash function 
+  iii. 
